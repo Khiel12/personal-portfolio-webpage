@@ -1,0 +1,350 @@
+body{
+    background-color: rgb(192, 192, 192);
+}
+.continer{
+    border: solid 3px  black;
+    height: 845px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font: 16PX;
+    font-family: 'Open Sans', sans-serif;
+    background-color: aliceblue;
+}
+h1{
+    font-size:50px;
+    text-align: center;
+    margin: 0px;
+}
+.hr1{
+    width: 95%;
+}
+.servings{
+    margin-left: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: small;
+}
+.Serving-size{
+    margin-left: 10px;
+    margin-bottom: 0px;
+    margin-top: 1px;
+}
+.hr2{
+    width: 95%;
+    height: 16px;
+    background-color: black;
+}
+.Amountperserving{
+    margin-left: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: large;
+}
+.a230{
+    position: absolute;
+    left: 55%;
+    top: 23%;
+}
+.Calories{
+    position: absolute;
+    top: 23%;
+    left: 36%;
+    margin-left: 10px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+.hr3{
+    position: absolute;
+    top: 31%;
+    left: 520px;
+    width: 26%;
+    height: 10px;
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.DailyValue{
+    position: absolute;
+    top: 31%;
+    left: 53%;
+}
+.hr4{
+    position: absolute;
+    top: 37%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.TotalFat{
+    position: absolute;
+    top: 36%;
+    left: 520px;
+    margin-left: 5px;
+}
+.a8g{
+    position: absolute;
+    top: 37%;
+    left: 595px;
+}
+.a10{
+    position: absolute;
+    top: 36%;
+    left: 845px;
+}
+.hr5{
+    position: absolute;
+    top: 42%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Saturated-Fat-1g{
+    position: absolute;
+    top: 41%;
+    left: 545px
+} 
+.a5{
+    position: absolute;
+    top: 41%;
+    left: 855px
+}
+.hr6{
+    position: absolute;
+    top: 47%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Trans-Fat-Og{
+    position: absolute;
+    top: 46%;
+    left: 545px
+}
+.hr7{
+    position: absolute;
+    top: 51%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Cholesterol{
+    position: absolute;
+    top: 49%;
+    left: 545px;
+}
+.Omg{
+    position: absolute;
+    top: 50%;
+    left: 640px;
+}
+.O{
+    position: absolute;
+    top: 49%;
+    left: 856px; 
+}
+.hr8{
+    position: absolute;
+    top: 55%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Sodium{
+    position: absolute;
+    top: 53%;
+    left: 545px;
+}
+.a160mg{
+    position: absolute;
+    top: 54%;
+    left: 610px;
+}
+.a7{
+    position: absolute;
+    top: 53%;
+    left: 855px;
+}
+.hr9{
+    position: absolute;
+    top: 59%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Total_Carbohydrate{
+    position: absolute;
+    top: 57%;
+    left: 545px;
+}
+.a37g{
+    position: absolute;
+    top: 58%;
+    left: 695px;
+}
+.a13{
+    position: absolute;
+    top: 57%;
+    left: 850px;
+}
+.hr10{
+    position: absolute;
+    top: 63%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Dietary_Fiber_4g{
+    position: absolute;
+    top: 62%;
+    left: 545px; 
+}
+.a14{
+    position: absolute;
+    top: 61%;
+    left: 850px;
+}
+.hr11{
+    position: absolute;
+    top: 67%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Total_Sugars_12g{
+    position: absolute;
+    top: 66%;
+    left: 545px;  
+}
+.hr12{
+    position: absolute;
+    top: 71%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;  
+}
+.Includes_10g_Added_Sugars{
+    position: absolute;
+    top: 70%;
+    left: 545px;
+}
+.a20{
+    position: absolute;
+    top: 69%;
+    left: 850px;
+}
+.hr13{
+    position: absolute;
+    top: 75%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;  
+}
+.Protein{
+    position: absolute;
+    top: 73%;
+    left: 523px;
+}
+.a3g{
+    position: absolute;
+    top: 74%;
+    left: 585px; 
+}
+.hr14{
+    position: absolute;
+    top: 79%;
+    left: 520px;
+    background-color: black;
+    height: 16px;
+    width: 27%;
+    margin-top: 0px;
+    margin-bottom: 0px;  
+}
+.Vitamin_D_2mcg{
+    position: absolute;
+    top: 80%;
+    left: 523px;
+}
+.p10{
+    position: absolute;
+    top: 80%;
+    left: 850px;
+}
+.hr15{
+    position: absolute;
+    top: 85%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;    
+}
+.Calcium_260mg{
+    position: absolute;
+    top: 84%;
+    left: 523px;
+}
+.p20{
+    position: absolute;
+    top: 84%;
+    left: 850px;
+}
+.hr16{
+    position: absolute;
+    top: 89%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Iron_8mg{
+    position: absolute;
+    top: 88%;
+    left: 523px;
+}
+.a45{
+    position: absolute;
+    top: 88%;
+    left: 850px;
+}
+.hr17{
+    position: absolute;
+    top: 93%;
+    left: 520px;
+    width: 26%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Potassium_240mg{
+    position: absolute;
+    top: 92%;
+    left: 523px;  
+}
+.a6{
+    position: absolute;
+    top: 92%;
+    left: 860px;
+}
+.hr18{
+    position: absolute;
+    top: 97%;
+    left: 520px;
+    background-color: black;
+    height: 10px;
+    width: 27%;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+}
+.butom{
+    position: absolute;
+    top: 97%;
+    left: 525px;
+}

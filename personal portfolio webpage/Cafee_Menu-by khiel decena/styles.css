@@ -1,0 +1,139 @@
+body{
+    background-image: url(aesthetic-background-brown-coffee-beans-free-vector.jpg);
+    background-size: cover;
+}
+img{
+    margin-top: 55px;
+    margin-left: 60px;
+    height: 650px;
+    width: 1300px;
+    
+}
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+.overlay-text {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 30px;
+    text-shadow: 0px 0px 4px rgb(32, 32, 32)
+}
+.horizontal-line{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 2px;
+    width: 70%;
+    background-color: black;
+    border: none;
+    margin-left: 50px;
+}
+#coffee-icon1{
+    position: absolute;
+    top: 9%;
+    left: 8%;
+    transform: translate(-50%, -50%);
+    height: 150px;
+    width: 150px;
+
+}
+#coffee-icon2{
+    position: absolute;
+    top: 11%;
+    left: 87%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: 200px;
+}
+.coffeef-lavors1{
+    position: absolute;
+    top: 63%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 20px;
+}
+.coffeef-lavors2{
+    position: absolute;
+    top: 63%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 20px;
+}
+.coffeef-lavors3{
+    position: absolute;
+    top: 63%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 20px;
+}
+.coffeef-lavors4{
+    position: absolute;
+    top: 63%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 20px;
+}
+.coffe-beans{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    width: 500px;
+}
+.Hot-Coffee-text{
+    position: absolute;
+    top: 33%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 40px;
+    color: burlywood;
+    text-shadow: 0px 0px 10px rgb(58, 58, 58);
+}
+.Mlik-Tea-text{
+    position: absolute;
+    top: 33%;
+    left: 77%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 40px;
+    color: burlywood;
+    text-shadow: 0px 0px 10px rgb(58, 58, 58);
+}
+ul{
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+   }
+li{
+    float: left;
+}
+li :hover{
+    background-color: rgba(221, 176, 125, 0.658);
+    border-radius: 5px;
+}
+li a {
+    display: block;
+    color:rgb(7, 7, 7);
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px 20px;
+}
+.login{
+    position: absolute;
+    left: 87%;
+    top:  88%;
+}
